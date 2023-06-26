@@ -1,1 +1,2 @@
-# goit-markup-hw-01
+# github-tutorial
+Repository for training git
